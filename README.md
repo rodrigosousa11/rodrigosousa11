@@ -1,10 +1,8 @@
 # Hi there, I'm Rodrigo 👋
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=rodrigosousa11&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rodrigosousa11&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosousa11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
----
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosousa11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 ## 💻 I'm used to:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 

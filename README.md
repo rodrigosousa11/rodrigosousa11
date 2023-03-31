@@ -1,8 +1,8 @@
 # Hi there, I'm Rodrigo 👋
 
 <div align="left">
-    <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=rodrigosousa11&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-    <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosousa11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=rodrigosousa11&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosousa11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
   
 ## 💻 Languages and Tools:

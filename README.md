@@ -2,7 +2,7 @@
 
 <div align="left">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=rodrigosousa11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&icon_color=ffffff&hide=issues&card_width=300" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosousa11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=350" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosousa11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=360" />
 </div>
   
 ## 💻 Languages and Tools:

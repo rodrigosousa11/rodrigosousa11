@@ -21,7 +21,6 @@
 
 ---
 <div>
-    <img align="left" src="https://visitcount.itsvg.in/api?id=rodrigosousa11&icon=8&color=6">
     <a href="https://www.linkedin.com/in/rodrigo-sousa-bb8a69262" target="_blank">
         <img align="right" src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA">
     </a>
